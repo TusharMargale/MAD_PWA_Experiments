@@ -9,7 +9,7 @@
 <img src="screenshots/6.jpg" height="500px"/>
 <img src="screenshots/7.jpg" height="500px"/>
 <img src="screenshots/8.jpg" height="500px"/>
-<img src="screenshots/9.jpg" height="500px"/>
+<img src="screenshots/.jpg" height="500px"/>
 
 # SCREENSHOTS OF DESKTOP SCREEN
 <img src="screenshots/10.png"/>
