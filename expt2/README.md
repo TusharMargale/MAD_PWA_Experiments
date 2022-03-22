@@ -14,16 +14,3 @@
 <img src="screenshots/11.jpg" height="500px"/>
 <img src="screenshots/12.jpg" height="500px"/>
 <img src="screenshots/13.jpg" height="500px"/>
-
-# SCREENSHOTS OF DESKTOP SCREEN
-<img src="screenshots/10.png"/>
-<img src="screenshots/11.png"/>
-<img src="screenshots/12.png"/>
-<img src="screenshots/13.png"/>
-<img src="screenshots/14.png"/>
-<img src="screenshots/15.png"/>
-<img src="screenshots/16.png"/>
-<img src="screenshots/17.png"/>
-<img src="screenshots/18.png"/>
-<img src="screenshots/19.png"/>
-<img src="screenshots/20.png"/>
